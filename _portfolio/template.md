@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "3D modelling and functional annotation of proteins"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio/lb1_3d.png'>"
 collection: portfolio
 ---
 
