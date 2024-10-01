@@ -1,6 +1,6 @@
 ---
 title: "A hidden Markov model for the functional annotation of kunitz-type domains"
-excerpt: "Three projects based on modeling by homology, developed for the Laboratory of Bioinformatics course<br/><img src='/images/portfolio/lb1_kunitz.png'>"
+excerpt: "Laboratory of Bioinformatics course project <br/><img src='/images/portfolio/lb1_kunitz.png'>"
 collection: portfolio
 ---
 **Motivation:** The in-silico discrimination of the presence of kunitz-type domains in a protein sequence is  
