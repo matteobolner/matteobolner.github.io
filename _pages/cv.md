@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied genomics, University of Bologna, 2021-2024 (expected)
+* Post-Doc - University of Bologna, 2024-present
+* Ph.D in Applied genomics, University of Bologna, 2021-2024
   * Visiting student - INIA-CSIC Madrid, Feb-May 2024
 * Post-grad internship: CINECA, May-Nov 2021
 * M.S. in Bioinformatics, University of Bologna, 2018-2021
